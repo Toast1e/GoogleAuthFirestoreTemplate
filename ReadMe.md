@@ -16,7 +16,7 @@ The application is built using HTML, JavaScript (with Firebase SDK)
 ## Steps to Run the Project
 
 1. Clone the repository
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/Toast1e/GoogleAuthFirestoreTemplate.git)
+   git clone [https://github.com/Toast1e/GoogleAuthFirestoreTemplate.git](https://github.com/Toast1e/GoogleAuthFirestoreTemplate.git)
 
 2. Set up Firebase Project
    Go to the Firebase Console and create a new Firebase project.
